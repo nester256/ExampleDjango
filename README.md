@@ -1,4 +1,5 @@
 
+
 ```
 python manage.py graph_models test_app -o er_diagram.png
 ```
